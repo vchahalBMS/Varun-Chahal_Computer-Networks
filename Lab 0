@@ -20,8 +20,8 @@ Instructions for LAB-1:
 2. Add a server
 [1 & 2 are under lab devices]
 
-3. Click on deivce, under config lab - set the IP address (10.0.0.1) and the Subnet Mask(255.0.0.0) is set by default
-4. Connect using copper crossover connection. It shuld show green light at both ends.
+3. Click on device, under config lab - set the IP address (10.0.0.1) and the Subnet Mask(255.0.0.0) is set by default
+4. Connect using copper crossover connection. It should show green light at both ends.
 5. Add a simple PDU
 5. Auto-capture the transfer
 6. Save the file                                                                    
